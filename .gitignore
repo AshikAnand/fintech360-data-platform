@@ -218,3 +218,34 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ============================================================
+# FinTech360 - Generated Data
+# ============================================================
+
+# Generated raw source-system datasets
+sample_data/raw/
+
+# Future generated / processed datasets
+sample_data/processed/
+sample_data/output/
+
+# ============================================================
+# Python Local Environment
+# ============================================================
+
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ============================================================
+# Local / Temporary Files
+# ============================================================
+
+*.log
+.DS_Store
+Thumbs.db
